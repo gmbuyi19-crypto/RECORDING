@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "RECORDING": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
