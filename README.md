@@ -6,8 +6,7 @@
 A small .NET console application that prints an ASCII logo and demonstrates basic program structure.
 
 ## Key details
-- **Language:** C# 1
-- 
+- **Language:** C# 12
 - **Target framework:** .NET 8
 - **Recommended IDE:** Visual Studio 2022
 
