@@ -22,10 +22,17 @@ namespace RECORDING
 
             logo1.DisplayLogo();
 
+            Response_Sytem responseSystem1 = new Response_Sytem();
+            // The constructor already runs the response system, no need to call it again
+            // responseSystem1.Response_Sytem();            
+
             Console.ForegroundColor = ConsoleColor.Magenta;
             Console.WriteLine("Welcome to the Cybersecurity AwarenessBot!");
             Console.ResetColor();
             Console.ReadLine();
         }
     }
-}
+
+    
+    }
+
